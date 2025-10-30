@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://github.com/joa-an/johanna/blob/07e9de96464c18061ea8f911dbb6fb0bd725ddc7/giphy%20(3).gif" width="300" alt="Giphy 3" />
+</p>
+
+
+
+
+
+
+
 <!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=header"/>
